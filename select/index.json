@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Victory Sky",
+  "base_artist": "ネル(CV:小清水亜美)",
+  "createdAt": "2026-03-09T16:12:03.850570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Victory",
+      "artist": "N.E.R.D",
+      "has_synced": true,
+      "path": "select/01_Victory_N.E.R.D.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Victory",
+      "artist": "N.E.R.D.",
+      "has_synced": true,
+      "path": "select/02_Victory_N.E.R.D..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dawn of Victory",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/03_Dawn_of_Victory_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dawn of Victory",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/04_Dawn_of_Victory_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dawn Of Victory",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/05_Dawn_Of_Victory_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "For Victory or Death",
+      "artist": "Amon Amarth",
+      "has_synced": false,
+      "path": "select/06_For_Victory_or_Death_Amon_Amarth.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Living In Victory",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/07_Living_In_Victory_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Just One Victory",
+      "artist": "Utopia",
+      "has_synced": false,
+      "path": "select/08_Just_One_Victory_Utopia.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Victory Choir",
+      "artist": "American Music Club",
+      "has_synced": true,
+      "path": "select/09_The_Victory_Choir_American_Music_Club.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Small Victory",
+      "artist": "Transviolet",
+      "has_synced": true,
+      "path": "select/10_Small_Victory_Transviolet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wrong Victory",
+      "artist": "MS MR",
+      "has_synced": true,
+      "path": "select/11_Wrong_Victory_MS_MR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Victory Sky",
+      "artist": "ネル(CV:小清水亜美)",
+      "has_synced": false,
+      "path": "select/pl_01_Victory_Sky_ネル(CV_小清水亜美).txt"
+    }
+  ]
+}
